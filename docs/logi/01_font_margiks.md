@@ -1,1 +1,0 @@
-# Tunniteema - fondi oma käe järgi muutmine.
