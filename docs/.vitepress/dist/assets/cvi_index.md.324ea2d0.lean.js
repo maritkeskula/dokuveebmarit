@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as s}from"./app.b56bfec1.js";const u='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cvi/index.md","lastUpdated":1644436612929}',o={},c=s("p",null,"test",-1),n=[c];function r(d,_,i,p,l,f){return a(),t("div",null,n)}var h=e(o,[["render",r]]);export{u as __pageData,h as default};
