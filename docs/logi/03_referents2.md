@@ -61,5 +61,5 @@ Hunt tuli välja natukene nagu põrsas minu värvivaliku tõttu, aga muidu läks
 Uus asi, mis õppisin oli see, kuidas varjusid ja heledamaid kohti lisada. Pen tooliga teha see osa ja võib üleääre minna, ning siis valida mõlemad pen tooliga tehtud osa kui ka roosa osa ja siis alt klahviga vajutades ja shape builder tooliga kustutada üleliigne osa.
 <br>
 <br>
-<img src="./images/hunt.PNG" alt="Hunt referentsi järgi" width="400"/>
+<img src="./images/hunt_referents.png" alt="Hunt referentsi järgi" width="400"/>
 
