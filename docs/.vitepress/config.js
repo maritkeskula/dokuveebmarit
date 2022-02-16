@@ -12,7 +12,7 @@ const logiSidebar = [
 
 module.exports = {
     title: "Minu dokuveeb",
-    base: "/vitepress-est/",
+    base: "/dokuveebmarit/",
     themeConfig: {
     nav: [
         { text: "Esileht", link: "/" },
