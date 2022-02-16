@@ -1,13 +1,14 @@
 const cviSidebar = [
+  {text: "Logi", link: "/logi/"},
     {text: "cvi", link: "/cvi/"},
     {text: "brief", link: "/cvi/brief/"},
     {text: "moodboard", link: "/cvi/moodboard/"},
-    {text: "Logi", link: "/logi/"},
 ];
 const logiSidebar = [
     {text: "logi", link: "/logi/"},
-    {text: "Font märgiks", link: "/logi/font_margiks"},
-    {text: "Apple logod", link: "/logi/apple_logo_referents"},
+    {text: "Font märgiks", link: "/logi/01_font_margiks"},
+    {text: "Apple ja kassi logod", link: "/logi/02_apple_logo_referents"},
+    {text: "Kassi refenretsi järgi tehtud logo", link: "/logi/03_referents2"},
 ]
 
 module.exports = {
@@ -16,15 +17,17 @@ module.exports = {
     themeConfig: {
     nav: [
         { text: "Esileht", link: "/" },
+        { text: "Logi", link: "/logi/" },
         { text: "Minust", link: "/minust/" },
         { text: "CVI", link: "/cvi/" },
-        { text: "Logi", link: "/logi/" },
       ],
       sidebar: {
-        "/cvi/": cviSidebar,
-        "/cvi/brief/": cviSidebar,
         "/logi/": logiSidebar,
         "/logi/01_font_margiks/": logiSidebar,
+        "/logi/02_apple_logo_referents/": logiSidebar,
+        "/logi/03_referents2/": logiSidebar,
+        "/cvi/": cviSidebar,
+        "/cvi/brief/": cviSidebar,
   }
 }
 }

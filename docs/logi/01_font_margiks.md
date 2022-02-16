@@ -5,4 +5,4 @@ Esimeses variandis kirjutasin oma nime ja vahetasin kerningut. Viisin oma pereko
 
 Teises variandis kirjutasin oma nime ja panin perekonnanime eesnime alla. Kasutasin sellist fonti kus tähtede sees on jooned keskel ning ühendasin mõned tähed nii, et panin üksteikse vastu ja rectangle tooliga ühendasin valged jooned üksteisega ja mõned valged kohad kustutasin.
 
-![Font minu käe järgi](./images/font.png)
+![Font minu käe järgi](./images/font.png)  
