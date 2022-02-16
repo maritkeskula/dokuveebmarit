@@ -8,7 +8,7 @@ const logiSidebar = [
     {text: "logi", link: "/logi/"},
     {text: "Font märgiks", link: "/logi/01_font_margiks"},
     {text: "Apple ja kassi logod", link: "/logi/02_apple_logo_referents"},
-    {text: "Kassi ja hundi refenrets", link: "/logi/03_referents2"},
+    {text: "Kassi ja hundi referents", link: "/logi/03_referents2"},
 ]
 
 module.exports = {
