@@ -9,6 +9,7 @@ const logiSidebar = [
     {text: "Font märgiks", link: "/logi/01_font_margiks"},
     {text: "Apple ja kassi logod", link: "/logi/02_apple_logo_referents"},
     {text: "Kassi ja hundi referents", link: "/logi/03_referents2"},
+    {text: "Nime ja hobi ühine märk", link: "/logi/04_nimihobi"},
 ]
 
 module.exports = {
@@ -26,6 +27,7 @@ module.exports = {
         "/logi/01_font_margiks/": logiSidebar,
         "/logi/02_apple_logo_referents/": logiSidebar,
         "/logi/03_referents2/": logiSidebar,
+        "/logi/04_nimihobi/": logiSidebar,
         "/cvi/": cviSidebar,
         "/cvi/brief/": cviSidebar,
   }
