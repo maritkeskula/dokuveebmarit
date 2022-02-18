@@ -1,6 +1,7 @@
 # Tunniteema - Nime ja hobi ühine märk
 <br>
 Alustasin sellest, et kritseldasin paberile umbes oma idee. Valisin enda hobiks meikimise ja asendasin "I" tähe meigi pintsliga.
+<br>
 <img src="./images/nimi1.png" alt="Nime ja hobi ühine märk" width="400"/> <br>
 Seejärel importisin selle pildi arvutisse ja tegin esialgsed kontuurid pen, rectangle ja ellipse toolidega. <br>
 <img src="./images/nimi2.png" alt="Nime ja hobi ühine märk" width="400"/> <br> 
