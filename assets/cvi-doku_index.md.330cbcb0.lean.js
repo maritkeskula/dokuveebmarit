@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.1bdc66c3.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cvi-doku/index.md","lastUpdated":1645029234955}',r={};function c(o,s,n,d,p,i){return a(),t("div")}var l=e(r,[["render",c]]);export{f as __pageData,l as default};
