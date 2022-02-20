@@ -63,7 +63,12 @@ Uus asi, mis õppisin oli see, kuidas varjusid ja heledamaid kohti lisada. Pen t
 <br>
 <img src="./images/referents_hunt.png" alt="Hunt referentsi järgi" width="400"/>
 <br>
-### Porg referentsi järgi
-Mulle hakkas meeldima see teema ning tegin kodus ise veel ühe referentsi järgi.
+### Teised tööd referentsi järgi
+Mulle hakkas meeldima see teema ning tegin kodus ise veel kaks tööd referentsi järgi.
 <br>
-<img src="./images/porg.jpg" alt="Porg referentsi järgi" width="400"/>
+<img src="./images/porg.jpg" alt="Porg referentsi järgi" width="400"/> <br>
+Tegin gaming logo enda tuttavale internetist tuletatud pildiga.
+<br>
+<img src="./images/gaminglogoref.png" alt="Gaming logo referentsi järgi" width="400"/>
+<br>
+<img src="./images/gaminglogo.png" alt="Gaming logo referentsi järgi" width="400"/>
