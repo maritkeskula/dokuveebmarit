@@ -13,6 +13,6 @@ See paks font mulle ikka ei meeldinud ja ma kustutasin need ära. Tegin pen tool
 Seejärel värvisin "R" tähe seest mustaks ja lisasin sinna värvilised ringid, mis on lauvärvid. Lisasin ka teistele tähtedele mustaks värvitud osi.
 <br>
 <img src="./images/nimi5.png" alt="Nime ja hobi ühine märk" width="400"/><br>
-"T" täht nägi imelik välja, niiet muutsin selle vastupidiseks ära.
+Tegin mustad kohad seest tühjaks ning "T" täht nägi imelik välja, niiet muutsin selle vastupidiseks ära.
 <br>
 <img src="./images/nimi7.png" alt="Nime ja hobi ühine märk" width="400"/><br>
