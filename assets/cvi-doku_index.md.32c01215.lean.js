@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.fabe012b.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"cvi-doku/index.md","lastUpdated":1645029234955}',r={};function o(s,c,n,d,p,i){return a(),t("div")}var l=e(r,[["render",o]]);export{f as __pageData,l as default};
