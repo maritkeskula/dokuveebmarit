@@ -71,4 +71,10 @@ Tegin gaming logo enda tuttavale internetist tuletatud pildiga.
 <br>
 <img src="./images/gaminglogoref.png" alt="Gaming logo referentsi järgi" width="400"/>
 <br>
-<img src="./images/gaminglogo.png" alt="Gaming logo referentsi järgi" width="400"/>
+<img src="./images/gaminglogo.png" alt="Gaming logo referentsi järgi" width="400"/> <br>
+Tegin enda tähtkuju (jäär) inspiratsioonil logo internetist tuletatud pildiga.
+<img src="./images/aries1.png" alt="Sodiaagimärk referentsi järgi" width="400"/>
+<img src="./images/aries2.png" alt="Sodiaagimärk referentsi järgi" width="400"/>
+<img src="./images/aries3.png" alt="Sodiaagimärk referentsi järgi" width="400"/>
+<img src="./images/aries4.png" alt="Sodiaagimärk referentsi järgi" width="400"/>
+<img src="./images/ariesdone.png" alt="Sodiaagimärk referentsi järgi" width="400"/>
