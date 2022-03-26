@@ -1,16 +1,18 @@
 const cviSidebar = [
-  {text: "Logi", link: "/logi/"},
-    {text: "cvi", link: "/cvi/"},
-    {text: "brief", link: "/cvi/brief/"},
-    {text: "moodboard", link: "/cvi/moodboard/"},
+    {text: "logi", link: "/logi/"},
+    {text: "cvi", link: "/cvi/ "},
+    {text: "briif", link: "/cvi/briif"},
+    {text: "moodboard", link: "/cvi/moodboard"},
+    {text: "visandid", link: "/cvi/visandid"},
 ];
 const logiSidebar = [
     {text: "logi", link: "/logi/"},
-    {text: "Font märgiks", link: "/logi/01_font_margiks"},
-    {text: "Apple ja kassi logod", link: "/logi/02_apple_logo_referents"},
-    {text: "Nime ja hobi ühine märk", link: "/logi/03_nimihobi"},
-    {text: "Kassi ja hundi referents", link: "/logi/04_referents2"},
-    {text: "Vapi tegemine", link: "/logi/05_vapp"},
+    {text: "font märgiks", link: "/logi/01_font_margiks"},
+    {text: "apple ja kassi logod", link: "/logi/02_apple_logo_referents"},
+    {text: "nime ja hobi ühine märk", link: "/logi/03_nimihobi"},
+    {text: "kassi ja hundi referents", link: "/logi/04_referents2"},
+    {text: "vapp", link: "/logi/05_vapp"},
+    {text: "negatiivne ruum", link: "/logi/06_negatiivne_ruum"},
 ]
 
 module.exports = {
@@ -18,9 +20,9 @@ module.exports = {
     base: "/dokuveebmarit/",
     themeConfig: {
     nav: [
-        { text: "Esileht", link: "/" },
-        { text: "Logi", link: "/logi/" },
-        { text: "Minust", link: "/minust/" },
+        { text: "esileht", link: "/" },
+        { text: "logi", link: "/logi/" },
+        { text: "minust", link: "/minust/" },
         { text: "CVI", link: "/cvi/" },
       ],
       sidebar: {
@@ -30,8 +32,11 @@ module.exports = {
         "/logi/03_nimihobi/": logiSidebar,
         "/logi/04_referents2/": logiSidebar,
         "/logi/05_vapp/": logiSidebar,
+        "/logi/06_negatiivne_ruum/": logiSidebar,
         "/cvi/": cviSidebar,
-        "/cvi/brief/": cviSidebar,
+        "/cvi/briif/": cviSidebar,
+        "/cvi/moodbaord/": cviSidebar,
+        "/cvi/visandid/": cviSidebar,
   }
 }
 }
